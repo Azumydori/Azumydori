@@ -1,6 +1,8 @@
 <h1 align ="center">Hello, Hola, привет, 今日は</h1> 
 <h3 align = "center"> I am actually a cat hiding inside a human looking robot. Meow meow </h3>
 
+![](https://komarev.com/ghpvc/?username=azumydori&style=flat-square&color=blueviolet)
+
 <h4 align ="left"> A little bit about me: </h4>
 
 + 🕹️ I studied 3D animation and videogame design (wowza!) despite that I have an interest in UI/UX and web design.
