@@ -1,7 +1,12 @@
 <h1 align ="center">Hello, Hola, привет, 今日は</h1> 
 <h3 align = "center"> I am actually a cat hiding inside a human looking robot. Meow meow </h3>
 
-<h4 align ="left"> A little bit about me </h4>
+<h4 align ="left"> A little bit about me: </h4>
+
++ 🕹️ I studied 3D animation and videogame Design (wowza!) despite that I have an interest in UI/UX and web design.
++ 🎮 I am currently studying in **4GeeksAcademy** to become a fullstack developer (woo!)
++ 🖌️ Also, I am an artist and I like drawing monsters and animals.
++ 🐶 I am also a foster home for a cute doggy called Pearl.
 
 <h4 align ="left"> My hobbies: </h4>
 
@@ -9,6 +14,8 @@
 + 🎵 Listening to music
 + 📺 Watching cool shows (I like anime a lot)
 + 🥣 Cooking!!!!
++ 💾 I also collect old videogames, obsolete tech and vinyl CD's
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
