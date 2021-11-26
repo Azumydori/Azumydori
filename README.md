@@ -6,7 +6,7 @@
 <h4 align ="left"> A little bit about me: </h4>
 
 + 🕹️ I studied 3D animation and videogame design (wowza!) despite that I have an interest in UI/UX and web design.
-+ 🎮 I am currently studying in **4GeeksAcademy** to become a fullstack developer (woo!)
++ 🎮 I studied at **4GeeksAcademy** and became a fullstack developer (woo!) but I really like frontend (yeah!)
 + 🖌️ Also, I am an artist and I like drawing monsters and animals.
 + 🐶 I am also a foster home for a cute doggy called Pearl.
 
