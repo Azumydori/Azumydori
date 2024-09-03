@@ -7,7 +7,7 @@
 
 + 🕹️ I studied 3D animation and videogame design (wowza!) despite that I have an interest in UI/UX and web design.
 + 🎮 I studied at **4GeeksAcademy** and became a fullstack developer (woo!) but I really like frontend (yeah!)
-+ 💻 Currently, I am working at Plexus Tech as a UI Developer!
++ 💻 Currently, I am working at Inercya as a UI Developer!
 + 🖌️ Also, I am an artist and I like drawing monsters and animals.
 
 <h4 align ="left"> My hobbies: </h4>
